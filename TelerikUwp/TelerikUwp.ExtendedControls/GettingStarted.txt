@@ -1,0 +1,20 @@
+﻿Welcome!!!
+In order to use this helper library, you'll need to reference the Telerik UWP Extension SDK. You're probably in one of 3 possible conditions:
+
+A) If you already have UI for Windows Universal Platform Q1 2016 already installed, just build the app
+
+
+B) If you do not have it installed, you can get a free trial just by clicking the link below. Once it's installed, you're good to go. 
+	Download: http://www.telerik.com/download-trial-file/v2/ui-for-universal-windows-platform
+
+
+C) Updating to a newer version. If you're using this helper and you have a newer version of UI for Windows Universal Platform installed, you only need to update the reference.
+	1) Go to Add Reference
+	2) Expand "Universal Windows" node and select "Extensions"
+	3) Scroll down and check off "Telerik UI for Windows Universal Platform"
+
+
+Additional Resources:
+- Find the documentation here: http://docs.telerik.com/windows-universal/index
+- Find official demos on your machine, located at: C:\Program Files (x86)\Telerik\UI for Universal Windows Platform Q1 2016\SampleApps
+- More comprehensive demos can be found in the Telerik UI for Windows Universal (8.1) demos, found here: C:\Program Files (x86)\Telerik\UI for Windows Universal Q1 2016\QSF
